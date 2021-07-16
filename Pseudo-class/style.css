@@ -1,0 +1,19 @@
+a.home:hover {
+    color: lightblue;
+    font-weight: bold;
+}
+
+a.doel:active {
+    color: red;
+    font-style: italic;
+
+}
+
+a.nieuws:visited {
+    color:yellow;
+}
+
+textarea:focus {
+    color:green;
+    font-size: 20px;
+}
